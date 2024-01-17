@@ -21,6 +21,16 @@ For custom development inquiries, support, or collaboration opportunities, don't
 
 Happy tracking! 🌍🚀
 
+## Contact
+
+For inquiries, collaborations, or requests for customized services, feel free to get in touch:
+
+- **Email:** [contato.tecsat@gmail.com](mailto:contato.tecsat@gmail.com)
+- **WhatsApp:** [Click here to send a message](https://wa.me/5591982474050)
+
+I look forward to hearing from you! 🚀
+
+
 ![img1](https://tecsat.net.br/traccar/img1.png)
 ![img2](https://tecsat.net.br/traccar/img2.jpg)
 ![img3](https://tecsat.net.br/traccar/img3.png)
