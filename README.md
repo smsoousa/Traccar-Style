@@ -1,6 +1,4 @@
-Author - Anton Tananaev (anton.tananaev@gmail.com)
-
-Website - https://www.traccar.org
+**MOD TRACCAR / STYLE TRACCAR / MODIFIED TRACCAR**
 
 🚗 Traccar Customizations Repository 🛠️
 
@@ -26,6 +24,10 @@ For custom development inquiries, support, or collaboration opportunities, don't
 Happy tracking! 🌍🚀
 
 ## Contact
+
+Author - Anton Tananaev (anton.tananaev@gmail.com)
+
+Website - https://www.traccar.org
 
 For inquiries, collaborations, or requests for customized services, feel free to get in touch:
 
