@@ -1,3 +1,7 @@
+Author - Anton Tananaev (anton.tananaev@gmail.com)
+
+Website - https://www.traccar.org
+
 🚗 Traccar Customizations Repository 🛠️
 
 Welcome to the heart of innovative Traccar solutions! This repository showcases my customized modifications and enhancements to the Traccar platform, tailored to meet specific needs in the realm of vehicle tracking.
