@@ -20,3 +20,7 @@ Feel free to fork, experiment, and integrate these modifications into your Tracc
 For custom development inquiries, support, or collaboration opportunities, don't hesitate to reach out. Your success with Traccar is my priority!
 
 Happy tracking! 🌍🚀
+
+![](https://tecsat.net.br/img1.png)
+![](https://tecsat.net.br/img2.jpg)
+![](https://tecsat.net.br/img3.png)
