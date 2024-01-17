@@ -21,6 +21,6 @@ For custom development inquiries, support, or collaboration opportunities, don't
 
 Happy tracking! 🌍🚀
 
-![](https://tecsat.net.br/img1.png)
-![](https://tecsat.net.br/img2.jpg)
-![](https://tecsat.net.br/img3.png)
+![img1](https://tecsat.net.br/traccar/img1.png)
+![img2](https://tecsat.net.br/traccar/img2.jpg)
+![img3](https://tecsat.net.br/traccar/img3.png)
